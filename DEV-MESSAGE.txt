@@ -1,0 +1,23 @@
+Subject: Lift Logger — design handoff (50 screens + prototype)
+
+Hi,
+
+Here’s the Lift Logger UI spec for Flutter implementation:
+
+GitHub (preferred): https://github.com/nguyengiaosonvn/lift-logger-design-export
+Zip backup: Lift-Logger-Design-Handoff.zip (~3 MB)
+
+Start here:
+1. Open screens-full/index.html — grid of all 50 UI states
+2. Read HANDOFF.md — screen map + Flutter notes
+3. Run the prototype locally for interactions (see README)
+
+This replaces a Figma file for this project:
+• PNGs = layout / colors / states
+• Web prototype = flows (logger wheels, sheets, library)
+
+Coverage: 41 UI branches audited, all captured (STATE-AUDIT.md).
+
+The iOS frame in PNGs is reference only — build native Flutter UI.
+
+Let me know if anything’s unclear.

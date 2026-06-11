@@ -1,0 +1,16 @@
+{
+  "name": "lift-logger-figma-export",
+  "version": "1.0.0",
+  "description": "Lift Logger design export — prototype + audited screen captures",
+  "scripts": {
+    "export": "node export-all-scenes.mjs",
+    "prototype": "npx --yes serve source"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "playwright": "^1.60.0"
+  }
+}

@@ -1,0 +1,8 @@
+node_modules/
+screens/
+source/uploads/
+source/print-shots/
+source/screenshots/
+00-BLOCKED-claude-login-required.png
+.DS_Store
+Thumbs.db

@@ -1,0 +1,257 @@
+{
+  "count": 50,
+  "auditBranches": 41,
+  "coverageComplete": true,
+  "scenes": [
+    {
+      "file": "001-start-native.png",
+      "id": "start-native",
+      "group": "Start"
+    },
+    {
+      "file": "002-start-mono.png",
+      "id": "start-mono",
+      "group": "Start"
+    },
+    {
+      "file": "003-start-athletic.png",
+      "id": "start-athletic",
+      "group": "Start"
+    },
+    {
+      "file": "004-splits-grid.png",
+      "id": "splits-grid",
+      "group": "Splits"
+    },
+    {
+      "file": "005-splits-scrolled.png",
+      "id": "splits-scrolled",
+      "group": "Splits"
+    },
+    {
+      "file": "006-splits-fullbody-days.png",
+      "id": "splits-fullbody-days",
+      "group": "Splits"
+    },
+    {
+      "file": "007-splits-upperlower-days.png",
+      "id": "splits-upperlower-days",
+      "group": "Splits"
+    },
+    {
+      "file": "008-splits-ppl-days.png",
+      "id": "splits-ppl-days",
+      "group": "Splits"
+    },
+    {
+      "file": "009-splits-bro-days.png",
+      "id": "splits-bro-days",
+      "group": "Splits"
+    },
+    {
+      "file": "010-splits-plus-menu.png",
+      "id": "splits-plus-menu",
+      "group": "Splits"
+    },
+    {
+      "file": "011-splits-with-custom-card.png",
+      "id": "splits-with-custom-card",
+      "group": "Splits"
+    },
+    {
+      "file": "012-idle-with-sets.png",
+      "id": "idle-with-sets",
+      "group": "Session / Idle"
+    },
+    {
+      "file": "013-idle-nothing-logged-yet.png",
+      "id": "idle-nothing-logged-yet",
+      "group": "Session / Idle"
+    },
+    {
+      "file": "014-idle-empty-plan.png",
+      "id": "idle-empty-plan",
+      "group": "Session / Idle"
+    },
+    {
+      "file": "015-idle-save-mode.png",
+      "id": "idle-save-mode",
+      "group": "Session / Idle"
+    },
+    {
+      "file": "016-logger-bench-barbell.png",
+      "id": "logger-bench-barbell",
+      "group": "Session / Logger"
+    },
+    {
+      "file": "017-logger-squat-barbell.png",
+      "id": "logger-squat-barbell",
+      "group": "Session / Logger"
+    },
+    {
+      "file": "018-logger-dead-barbell.png",
+      "id": "logger-dead-barbell",
+      "group": "Session / Logger"
+    },
+    {
+      "file": "019-logger-ohp-barbell.png",
+      "id": "logger-ohp-barbell",
+      "group": "Session / Logger"
+    },
+    {
+      "file": "020-logger-curl-dumbbell.png",
+      "id": "logger-curl-dumbbell",
+      "group": "Session / Logger"
+    },
+    {
+      "file": "021-logger-row-pin-stack.png",
+      "id": "logger-row-pin-stack",
+      "group": "Session / Logger"
+    },
+    {
+      "file": "022-logger-lat-pin-stack.png",
+      "id": "logger-lat-pin-stack",
+      "group": "Session / Logger"
+    },
+    {
+      "file": "023-logger-row-wheel.png",
+      "id": "logger-row-wheel",
+      "group": "Session / Logger"
+    },
+    {
+      "file": "024-logger-lat-wheel.png",
+      "id": "logger-lat-wheel",
+      "group": "Session / Logger"
+    },
+    {
+      "file": "025-logger-coarse-fine.png",
+      "id": "logger-coarse-fine",
+      "group": "Session / Logger"
+    },
+    {
+      "file": "026-logger-uniform.png",
+      "id": "logger-uniform",
+      "group": "Session / Logger"
+    },
+    {
+      "file": "027-logger-touch-test.png",
+      "id": "logger-touch-test",
+      "group": "Session / Logger"
+    },
+    {
+      "file": "028-logger-edit-exercises.png",
+      "id": "logger-edit-exercises",
+      "group": "Session / Logger"
+    },
+    {
+      "file": "029-logger-sheet-closed.png",
+      "id": "logger-sheet-closed",
+      "group": "Session / Logger"
+    },
+    {
+      "file": "030-new-exercise-barbell.png",
+      "id": "new-exercise-barbell",
+      "group": "Session / New exercise"
+    },
+    {
+      "file": "031-new-exercise-dumbbell.png",
+      "id": "new-exercise-dumbbell",
+      "group": "Session / New exercise"
+    },
+    {
+      "file": "032-new-exercise-machine.png",
+      "id": "new-exercise-machine",
+      "group": "Session / New exercise"
+    },
+    {
+      "file": "033-new-exercise-empty-name.png",
+      "id": "new-exercise-empty-name",
+      "group": "Session / New exercise"
+    },
+    {
+      "file": "034-library-anatomy-default.png",
+      "id": "library-anatomy-default",
+      "group": "Library"
+    },
+    {
+      "file": "035-library-tap-muscle.png",
+      "id": "library-tap-muscle",
+      "group": "Library"
+    },
+    {
+      "file": "036-library-muscle-lats.png",
+      "id": "library-muscle-lats",
+      "group": "Library"
+    },
+    {
+      "file": "037-library-search-bench.png",
+      "id": "library-search-bench",
+      "group": "Library"
+    },
+    {
+      "file": "038-library-search-empty.png",
+      "id": "library-search-empty",
+      "group": "Library"
+    },
+    {
+      "file": "039-library-free-flow.png",
+      "id": "library-free-flow",
+      "group": "Library"
+    },
+    {
+      "file": "040-idle-mono.png",
+      "id": "idle-mono",
+      "group": "Vibes"
+    },
+    {
+      "file": "041-idle-athletic.png",
+      "id": "idle-athletic",
+      "group": "Vibes"
+    },
+    {
+      "file": "042-logger-mono.png",
+      "id": "logger-mono",
+      "group": "Vibes"
+    },
+    {
+      "file": "043-logger-athletic-red.png",
+      "id": "logger-athletic-red",
+      "group": "Vibes"
+    },
+    {
+      "file": "044-splits-mono.png",
+      "id": "splits-mono",
+      "group": "Vibes"
+    },
+    {
+      "file": "045-splits-athletic.png",
+      "id": "splits-athletic",
+      "group": "Vibes"
+    },
+    {
+      "file": "046-logger-accent-green.png",
+      "id": "logger-accent-green",
+      "group": "Accents"
+    },
+    {
+      "file": "047-logger-accent-orange.png",
+      "id": "logger-accent-orange",
+      "group": "Accents"
+    },
+    {
+      "file": "048-logger-no-pr-marker.png",
+      "id": "logger-no-pr-marker",
+      "group": "Behavior"
+    },
+    {
+      "file": "049-logger-pin-absolute.png",
+      "id": "logger-pin-absolute",
+      "group": "Behavior"
+    },
+    {
+      "file": "050-logger-after-log-closed.png",
+      "id": "logger-after-log-closed",
+      "group": "Behavior"
+    }
+  ]
+}
